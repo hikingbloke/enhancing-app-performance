@@ -6,6 +6,7 @@ Please the required screenshots for RunBook in this directory.
  ![screenshot -resources](resources.png?raw=true)
  ![screenshot -alert settings](alert-settings.png?raw=true)
  ![screenshot -manage actions](manage-actions-runbook.png?raw=true)
+ ![screenshot -manage actions](runbook-alert-complete.png?raw=true)
 
 2. **The email you received from the alert when the Runbook was executed.**
 ![screenshot -runbook-email-alert](runbook-email-alert.png?raw=true)

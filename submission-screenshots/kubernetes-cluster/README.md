@@ -10,7 +10,6 @@ Please the required screenshots for Kubernetes Cluster in this directory.
 
 2. **Pods alert rule.**
  ![screenshot -alert](pod_alert.png?raw=true) 
- ![screenshot -alert complete](runbook-alert-complete.png?raw=true) 
 
 3. **The Application Insights metrics which show the increase in the number of pods.**
  a. **Initial number of pods.**
