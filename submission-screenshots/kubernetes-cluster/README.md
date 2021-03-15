@@ -6,6 +6,7 @@ Please the required screenshots for Kubernetes Cluster in this directory.
  ![screenshot -metrics](pod_metrics.png?raw=true)
  ![screenshot -get hpa](get-hpa.png?raw=true)
  ![screenshot -describe hpa](describe-hpa.png?raw=true)
+ ![screenshot -why alert](why-alert-fired.png?raw=true) 
 
 2. **Pods alert rule.**
  ![screenshot -alert](pod_alert.png?raw=true) 
