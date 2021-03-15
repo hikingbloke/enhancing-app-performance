@@ -4,6 +4,8 @@ Please the required screenshots for Kubernetes Cluster in this directory.
 
 1. **The output of the Horizontal Pod Autoscaler, showing an increase in the number of pods.**
  ![screenshot -metrics](pod_metrics.png?raw=true)
+ ![screenshot -get hpa](get-hpa.png?raw=true)
+ ![screenshot -describe hpa](describe-hpa.png?raw=true)
 
 2. **Pods alert rule.**
  ![screenshot -alert](pod_alert.png?raw=true) 

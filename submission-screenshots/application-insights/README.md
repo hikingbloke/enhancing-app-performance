@@ -8,9 +8,10 @@ Please the required screenshots for Application Insights in this directory.
 2. **Screenshot of the metrics from the VM Scale Set instances.**
 The metrics from the VM Scale Set instance--this will show CPU %, Available Memory %, Information about the Disk, and information about the bytes sent and received. There will be 7 graphs which display this data.  
 
- ![screenshot -metrics from the VM Scale Set instances](vmss_chart1.png?raw=true)
- ![screenshot -metrics from the VM Scale Set instances](vmss_chart2.png?raw=true)
- ![screenshot -metrics from the VM Scale Set instances](vmss_chart3.png?raw=true)
+ ![screenshot -metrics from the VM Scale Set instances](7charts-1.png?raw=true)
+ ![screenshot -metrics from the VM Scale Set instances](7charts-2.png?raw=true)
+ ![screenshot -metrics from the VM Scale Set instances](7charts-3.png?raw=true)
+ ![screenshot -metrics from the VM Scale Set instances](7charts-4.png?raw=true)
 
 2. **Application Insight Events which show the results of clicking 'vote' for each 'Dogs' & 'Cats'**
  ![screenshot -results of clicking](app-insights-events1.png?raw=true)
